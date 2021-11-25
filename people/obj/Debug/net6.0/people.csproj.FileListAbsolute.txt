@@ -1,0 +1,15 @@
+C:\Users\ryank\Desktop\people\bin\Debug\net6.0\people.exe
+C:\Users\ryank\Desktop\people\bin\Debug\net6.0\people.deps.json
+C:\Users\ryank\Desktop\people\bin\Debug\net6.0\people.runtimeconfig.json
+C:\Users\ryank\Desktop\people\bin\Debug\net6.0\people.dll
+C:\Users\ryank\Desktop\people\bin\Debug\net6.0\ref\people.dll
+C:\Users\ryank\Desktop\people\bin\Debug\net6.0\people.pdb
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.csproj.AssemblyReference.cache
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.AssemblyInfoInputs.cache
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.AssemblyInfo.cs
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.csproj.CoreCompileInputs.cache
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.dll
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\ref\people.dll
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.pdb
+C:\Users\ryank\Desktop\people\obj\Debug\net6.0\people.genruntimeconfig.cache
